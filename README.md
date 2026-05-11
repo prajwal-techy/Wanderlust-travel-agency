@@ -94,15 +94,12 @@ Wonderlust-Travel-Agency/
 
 ## ⚡ How to Run the Project
 
-1. Clone the repository
+*The project is live @:
+ https://prajwal-techy.github.io/Wanderlust-travel-agency/<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/5c7aeabd-8b12-4b5a-adb4-bd55a3861959" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/f3b4c018-f42b-45c6-ba5b-d7509252cd3c" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/016491e6-596e-4b89-9f49-93bfab7fe16f" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/bb6c1360-8496-429e-9ee8-6e069f14f897" />
 
-```bash
-git clone <your-github-repo-link>
-```
-
-2. Open the project folder
-
-3. Run `index.html` in your browser
 
 ---
 

@@ -1,6 +1,6 @@
 # Wonderlust Travel Agency 🌍✈️
 
-A modern and responsive travel agency website built using **HTML** and **CSS**.
+A modern and a beginner level travel agency website built using **HTML** and **CSS**.
 This project showcases beautiful travel destinations across India with an attractive user interface, engaging sections, and smooth webpage design.
 
 ---

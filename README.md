@@ -114,16 +114,6 @@ Wonderlust-Travel-Agency/
 
 ---
 
-## 💡 Learning Outcomes
-
-Through this project, I learned:
-
-* Building structured webpages
-* Designing modern UI using CSS
-* Creating responsive layouts
-* Managing project files
-* Using Git and GitHub for version control
-
 ---
 
 ## 👨‍💻 Author
